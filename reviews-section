@@ -1,0 +1,18 @@
+<section class="reviews4_section">
+			<h2 class="title">Характеристика</h2>
+			<div class="reviews_list4 owl-carousel owl-loaded">
+				
+			<div class="owl-stage-outer owl-height" style="height: 440px;"><div class="owl-stage" style="transform: translate3d(-880px, 0px, 0px); transition: all 0s ease 0s; width: 2200px;"><div class="owl-item cloned" style="width: 440px;"><img src="images/04.jpg" alt=""></div><div class="owl-item cloned" style="width: 440px;"><img src="images/04.jpg" alt=""></div><div class="owl-item active" style="width: 440px;"><img src="images/04.jpg" alt=""></div><div class="owl-item cloned" style="width: 440px;"><img src="images/04.jpg" alt=""></div><div class="owl-item cloned" style="width: 440px;"><img src="images/04.jpg" alt=""></div></div></div><div class="owl-nav disabled"><div class="owl-prev"></div><div class="owl-next"></div></div><div class="owl-dots disabled"><div class="owl-dot active"><span></span></div></div></div>
+			<br>
+			<ul class="list1">
+				<li>Матеріал: Пластик</li>
+				<li>Розмір: 21,7 х 31,7 см</li>
+				<li>Режимів: 6</li>
+				<li>Рівні інтенсивності: 9</li>
+				<li>Режим живлення: USB</li>
+			</ul>
+			<br>
+			<a href="index.php#order_form" class="button">Придбати зараз</a>
+			<div class="products_count">Знижка <b> на кожний наступний </b> -50 гривень!</div>
+			
+		</section>
